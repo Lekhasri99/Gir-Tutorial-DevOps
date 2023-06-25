@@ -1,2 +1,4 @@
-print{"Welcome to edureka...!"}
+print("Welcome to edureka...!")
+
+print("Hello Git-Hub")
 
